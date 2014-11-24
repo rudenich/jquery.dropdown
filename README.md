@@ -1,7 +1,7 @@
 jquery.dropdown
 ===============
 
-jquery dropdown simulation with a and ul
+jquery vk.com like dropdown simulation with a and ul
 
 template of markup
 ```html
